@@ -1,2 +1,2 @@
 Git Solo Tutorial
-- Quincy Leung
+- Quincy Leung, Winter 2024
